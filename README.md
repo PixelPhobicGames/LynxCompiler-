@@ -10,3 +10,17 @@
    
     Windows: x86
   
+  
+  Programming Instructions:
+  
+    print
+    printv
+    printi
+    setcolor
+    jump 
+    var
+    getint 
+    exit 
+    
+    
+  
