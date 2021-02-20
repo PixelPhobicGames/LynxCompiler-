@@ -2,8 +2,13 @@
   A Program Written in Python to Covert Lynx Code into Fast effeicent Assembly Code 
   
   
-  Progress % : |------------10%------------|
+  Progress x86 : 
   
+    |------------10%------------|
+  
+  Progress armhf : 
+  
+    |------------5%------------|
   
   Supported Architectures and Operating Systems:
  
