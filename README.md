@@ -18,12 +18,18 @@
    Program Usage:
    
     lxc [Programname].lyvm [output].asm [Architecture]
+    
     ___________________________________________________
     
     Example #1: lxc main.lyvm main.asm x86
+                nasm -f elf64 main.asm -o main.o
+                ld main.o -o main.sh
     ___________________________________________________
     
     Example #2: lxc main.lyvm main.asm armhf
+                as main.asm -o main.o 
+                ld main.o -o main.sh 
+               
     
    Future: 
    
