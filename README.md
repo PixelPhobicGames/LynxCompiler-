@@ -14,6 +14,10 @@
  
     Linux: ARMHF
     Linux: x86
+   Future: 
+   
+    Windows: x86
+  
     
    Requirments:
     
@@ -37,10 +41,6 @@
                 ld main.o -o main.sh 
                
     
-   Future: 
-   
-    Windows: x86
-  
   Limitations:
   
     Varibles:
