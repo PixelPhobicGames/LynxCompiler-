@@ -15,6 +15,14 @@
     Linux: ARMHF
     Linux: x86
     
+   Program Usage:
+   
+    lxc [Programname].lyvm [output].asm [Architecture]
+    ___________________________________________________
+    
+    Example #1: lxc main.lyvm main.asm x86
+    Example #2: lxc main.lyvm main.asm armhf
+    
    Future: 
    
     Windows: x86
