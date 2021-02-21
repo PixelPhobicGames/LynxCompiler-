@@ -1,5 +1,5 @@
 # LynxCompiler-
-  A Program Written in Python to Covert Lynx Code into Fast effeicent Assembly Code 
+  A Program Written in Python to Covert LynxVM Code into Fast effeicent Assembly Code 
   
   
   Progress x86 : 
