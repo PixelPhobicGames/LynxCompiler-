@@ -8,7 +8,7 @@
   
   Progress armhf : 
   
-    |------------5%------------|
+    |------------8%------------|
   
   Supported Architectures and Operating Systems:
  
