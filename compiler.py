@@ -364,7 +364,7 @@ def Start():
     os.system("clear")
     print("Software By Liquid")
     if (sys.argv[1] == "--help"):
-        print("Usage: lyc [main].lyvm [output].asm [arch]")
+        print("Usage: lxc [main].lyvm [output].asm [arch]")
         sys.exit()
         
     srcfile.readfile = open(sys.argv[1],"r")
