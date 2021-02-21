@@ -17,8 +17,9 @@
     
    Requirments:
     
-     Armhf: GNU Assembler 2.3
-     x86: nasm 2.1
+     Armhf: GNU Assembler 2.3 , GNU ld 2.3
+     
+     x86: nasm 2.1 , GNU ld 2.3
      
    Program Usage:
    
