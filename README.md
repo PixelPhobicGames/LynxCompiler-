@@ -15,6 +15,11 @@
     Linux: ARMHF
     Linux: x86
     
+   Requirments:
+    
+     Armhf: GNU Assembler 2.3
+     x86: nasm 2.1
+     
    Program Usage:
    
     lxc [Programname].lyvm [output].asm [Architecture]
